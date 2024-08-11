@@ -1,27 +1,26 @@
-# web-scapping-beautiful-soup-library
+# Web Scraping with Beautiful Soup and Requests
 
-Web Scraping with Beautiful Soup and Requests
-
-Overview
+## Overview
 
 This project demonstrates how to use the Beautiful Soup and Requests libraries to perform web scraping in Python.
 
 Web scraping is the process of extracting data from websites. Beautiful Soup provides tools for parsing HTML and XML documents, while Requests simplifies sending HTTP requests.
 
-Libraries Used
+## Libraries Used
 
-Beautiful Soup
-Beautiful Soup is a Python library for parsing HTML and XML documents. It creates parse trees from page source codes that can be used to extract data easily.
+- **Beautiful Soup**  
+  Beautiful Soup is a Python library for parsing HTML and XML documents. It creates parse trees from page source codes that can be used to extract data easily.
 
-Requests
-Requests is a simple HTTP library for Python. It allows you to send HTTP requests, making it easier to interact with web services and retrieve content from web pages.
+- **Requests**  
+  Requests is a simple HTTP library for Python. It allows you to send HTTP requests, making it easier to interact with web services and retrieve content from web pages.
 
-Conclusion
+## Conclusion
 
 This guide provides a basic overview of web scraping using Beautiful Soup and Requests. By following these steps, you can begin extracting data from web pages for your projects.
 
-Feel free to reach out in case of any Queries: 
+## Contact
 
-email : akashanandani.56@gmail.com
+Feel free to reach out in case of any queries:
 
-github: kashh56
+- **Email**: [akashanandani.56@gmail.com](mailto:akashanandani.56@gmail.com)
+- **GitHub**: [kashh56](https://github.com/kashh56)
